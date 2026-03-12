@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "316274677351",
+    "project_id": "caloer-ai",
+    "storage_bucket": "caloer-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316274677351:android:833fd5a8d53d7b31a466c2",
+        "android_client_info": {
+          "package_name": "com.bacviet.caloerAi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316274677351-6c867jh3bddvedv8n7mrr6bvavtdn8sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bacviet.caloerAi",
+            "certificate_hash": "f6f9e502671380ad86b3ad94ad5b1190c4304699"
+          }
+        },
+        {
+          "client_id": "316274677351-pnervs002coam60kdtbq2pklnvksbktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU2Uo5H9RjcOBp5YniR38ZMSChfCL6HY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316274677351-pnervs002coam60kdtbq2pklnvksbktc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "316274677351-a6tp7df74fcbv3om339gtdg0krtnrvq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bacviet.caloerAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
